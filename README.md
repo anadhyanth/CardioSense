@@ -16,16 +16,9 @@ Available [here](https://www.kaggle.com/shayanfazeli/heartbeat).
 Each signal should be labeled as one of the classes (**"Normal"**, **"Artial Premature"**, **"Premature ventricular contraction"**,**"Fusion of ventricular and normal"**, **"Fusion of paced and normal"**).
 
 ## Solution
-Code with research and solution is available here - [1D GAN for ECG Synthesis](https://www.kaggle.com/polomarco/1d-gan-for-ecg-synthesis) and  here - [ECG Classification | CNN LSTM Attention mechanism](https://www.kaggle.com/polomarco/ecg-classification-cnn-lstm-attention-mechanism).
-
-### Models
-
-<p>
- <img src="https://64.media.tumblr.com/3499318b70fccebba076a3334bf7f0a4/4aeaf11bfa23b03f-59/s500x750/bae84e95d517fc08c23221afcf78acd194910e58.png" width="40%" height="100%">
- <img src="https://64.media.tumblr.com/e42e20eb2ec1aea3962c6ace63adf499/70877119c7741403-44/s1280x1920/b30b582fa0a23e4a9f7f5b35169d742bb615afc3.png" width="43%" height="100%">
-</p>  
+Code with research and solution is available here - [1D GAN for ECG Synthesis](https://www.kaggle.com/polomarco/1d-gan-for-ecg-synthesis) and  here - [ECG Classification | CNN LSTM Attention mechanism](https://www.kaggle.com/polomarco/ecg-classification-cnn-lstm-attention-mechanism). 
   
-## GAN Results
+## Results
 <p>
  <img src="https://64.media.tumblr.com/dcfd4f40cdb257f033c4a8413d5b37df/8346578abfb69fc0-8d/s1280x1920/05d281b3fb71921c9cdb9500859088e3effdd103.png" width="80%" height="100%">
 
